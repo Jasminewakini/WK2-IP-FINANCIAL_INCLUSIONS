@@ -32,7 +32,7 @@ Improvements are encouraged.}
 
 {Python Programming, 
 
-Libraries: Numpy & Pandas.}
+Libraries: Numpy, Pandas, matplotlib, seaborn}
 
 ## Support and contact details
 
